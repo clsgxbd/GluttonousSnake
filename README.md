@@ -1,6 +1,9 @@
 # GluttonousSnake
 贪吃蛇游戏
 
+## 环境:  
+  Microsoft Visual Studio 2010
+
 ## 说明: 
 该项目基于EasyX, EasyX安装包我已经放在根目录
 
